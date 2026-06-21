@@ -37,7 +37,7 @@ Everything stays on the device. No telemetry. No analytics. No server.
 - PWA manifest as `data:` URL — installable from any static host
 - Aesthetic: oxblood `#8b1a1a` / brass `#b8974a` / cream `#e6e1d6` / void `#0b0a0f`
 - T0 cascade with 13 CMR-tuned rules · T3 BYOK (Anthropic / Gemini free / OpenAI / OpenRouter)
-- Audit chain (Mansoor P3): `prevHash` chained, 50k cap, SHA-256, FCA CMR 6yr retention
+- Audit chain (P3): `prevHash` chained, 50k cap, SHA-256, FCA CMR 6yr retention
 
 ## 14-pt gate
 
